@@ -1,0 +1,8 @@
+repos:
+  # TODO: add at least one linter hook here.
+  # Suggested tools to look into: ruff, black, flake8.
+  # Docs: https://pre-commit.com/hooks.html
+  - repo: # fill in the hook repo URL
+    rev:  # fill in the version/tag
+    hooks:
+      - id: # fill in the hook id

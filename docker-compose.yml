@@ -1,0 +1,14 @@
+version: '3.8'
+
+services:
+  thug-node:
+    build: .
+    environment:
+      - NODE_NAME=
+    ports:
+      # FILL IN (are udp ports and tcp ports mapped the same way?)
+      - ""
+    
+    # DO NOT TOUCH: Required to keep the terminal interactive for the Python input() prompts
+    stdin_open: true 
+    tty: true
