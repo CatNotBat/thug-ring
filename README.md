@@ -1,4 +1,8 @@
-# The Thug Ring — Mission Brief
+# The Thug Ring
+
+A workshop I built for my team to teach UDP hole punching, NAT traversal, and Docker networking. `node.py` is the scaffold — participants implement the STUN discovery, punch logic, and ring routing themselves. The companion [guide.md](./guide.md) covers the theory.
+
+---
 
 > A fully decentralized, peer-to-peer UDP messaging ring.
 > No central servers. No router port forwarding.
