@@ -1,6 +1,6 @@
 # The Thug Ring
 
-A workshop I built for my team to teach UDP hole punching, NAT traversal, and Docker networking. `node.py` is the scaffold — participants implement the STUN discovery, punch logic, and ring routing themselves. The companion [guide.md](./guide.md) covers the theory.
+A workshop I built for my team to teach UDP hole punching, NAT traversal, and Docker networking. `node.py` is the scaffold — participants implement the STUN discovery, punch logic, and ring routing themselves, and fill in the `Dockerfile` and pre-commit config as part of the exercise. The companion [guide.md](./guide.md) covers the theory.
 
 ---
 
